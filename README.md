@@ -1,5 +1,7 @@
 # Dev Playbook
 
+Indice detalhado: `INDEX.md`
+
 Um repositório pessoal onde registro padrões, decisões e aprendizados relacionados ao desenvolvimento de software.
 
 A ideia é manter um **manual vivo** do meu processo de desenvolvimento:
