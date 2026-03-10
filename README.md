@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # Dev Playbook
 
 Índice detalhado: [INDEX.md](INDEX.md)
