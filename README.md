@@ -1,6 +1,6 @@
 # Dev Playbook
 
-Indice detalhado: `INDEX.md`
+Índice detalhado: [INDEX.md](INDEX.md)
 
 Um repositório pessoal onde registro padrões, decisões e aprendizados relacionados ao desenvolvimento de software.
 
